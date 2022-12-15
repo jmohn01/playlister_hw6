@@ -1,0 +1,15 @@
+.playlist-card.selected {
+  border: 2px solid rgb(32, 142, 252);
+}
+
+.playlist-card:hover {
+  border: 2px solid rgb(32, 142, 252);
+}
+
+.like-icon.selected {
+  color: rgb(32, 142, 252);
+}
+
+.dislike-icon.selected {
+  color: rgb(32, 142, 252);
+}
